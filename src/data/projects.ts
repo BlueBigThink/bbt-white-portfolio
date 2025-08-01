@@ -2,7 +2,7 @@ export interface Project {
   title: string;
   subtitle?: string;
   link?: string;
-  image: string;
+  image?: string;
   images: string[]
   date: string;
   desc: string;
@@ -12,6 +12,7 @@ const data: Project[] = [
   {
     title: 'Blogchain.us',
     subtitle: 'Blockchain’s #1 Web3 Platform',
+    link: 'https://blogchain.us',
     image: '/images/projects/nearestdollar.jpg',
     images: ['/images/projects/blogchain/1.JPG',
             '/images/projects/blogchain/2.JPG',
@@ -28,23 +29,27 @@ const data: Project[] = [
       'Blogchain is the web3.0 platform that operates in crypto with features like posting, live streaming, marketplace, trading…etc. There are plenty of issues that Blogchain fixes, first helps major businesses open themselves to a new market of people, less taxes intertwined with potential good investments, fast payments, everything is decentralized, people can earn in crypto instead of FIAT currencies which ties to taxes. Please visit blogchain for the details',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    images: ['/images/projects/harvest.jpg','/images/projects/harvest.jpg','/images/projects/harvest.jpg'],
-    date: '2015-09-20',
+    title: 'modelvi',
+    subtitle: 'Effortless Multi-Platform Automation',
+    link: 'https://modelvi.com/',
+    images: ['/images/projects/modelvi/1.JPG',
+            '/images/projects/modelvi/2.JPG',
+            '/images/projects/modelvi/3.JPG',
+            '/images/projects/modelvi/4.JPG',
+            '/images/projects/modelvi/5.JPG',
+            '/images/projects/modelvi/6.JPG',
+            '/images/projects/modelvi/7.JPG',
+            '/images/projects/modelvi/8.jpg',
+            '/images/projects/modelvi/9.JPG'],
+    date: '2025-01-20',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution ' +
-      'for crops. Harvest was designed to catch irrigation leaks, overwatering, ' +
-      'and nutrient deficiencies at an affordable price for the developing world.',
+      'modelvi.com is an all-in-one platform that makes automating your content across multiple channels simple and stress-free. It helps you reach a wider audience, keep your fans engaged, and save countless hours on repetitive tasks. With streamlined tools designed specifically for models and agencies, managing your workflow has never been easier. By working smarter, you can consistently grow your presence and earn $10–15K every month.',
   },
   {
     title: 'Space Potato',
     subtitle: 'A kickstarter funded potato powered weather balloon.',
     link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    images: ['/images/projects/spacepotato.jpg','/images/projects/spacepotato.jpg'],
+    images: ['/images/projects/modelvi/1.JPG'],
     date: '2015-06-28',
     desc:
       'Launched a potato battery powered weather balloon with two cameras ' +
