@@ -10,7 +10,7 @@ import PageWrapper from '../components/PageWrapper';
 
 export const metadata: Metadata = {
   title: 'Stats',
-  description: "Some statistics about Brent C and mldangelo.com",
+  description: "Some statistics about Brent C and bbt.dev",
 };
 
 export default function StatsPage() {

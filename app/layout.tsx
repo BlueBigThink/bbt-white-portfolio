@@ -38,11 +38,11 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Brent C" }],
   creator: "Brent C",
-  metadataBase: new URL('https://mldangelo.com'),
+  metadataBase: new URL('https://bbt.dev'),
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://mldangelo.com',
+    url: 'https://bbt.dev',
     siteName: "Brent C",
     title: "Brent C",
     description: 'Data scientist, machine learning engineer, and full-stack developer.',

@@ -99,7 +99,3 @@ npm test              # Run Jest tests
 - **Personal Information**: Update files in `src/data/` with your information.
 - **Images**: Replace images in `public/images/` with your own.
 - **Theme**: Modify SCSS variables in `src/static/css/libs/_vars.scss`.
-
-## 📝 License
-
-[MIT](https://github.com/mldangelo/personal-site/blob/main/LICENSE)

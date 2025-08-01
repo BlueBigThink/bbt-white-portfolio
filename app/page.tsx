@@ -26,15 +26,13 @@ export default function HomePage() {
           </div>
         </header>
         <p>
-          {' '}
           Welcome to my website. Please feel free to read more <Link href="/about">about me</Link>,
           or you can check out my <Link href="/resume">resume</Link>,{' '}
           <Link href="/projects">projects</Link>, view <Link href="/stats">site statistics</Link>,
           or <Link href="/contact">contact</Link> me.
         </p>
         <p>
-          {' '}
-          Source available <a href="https://github.com/mldangelo/personal-site">here</a>.
+          Source available <a href="https://github.com/bluebigthink/bbt-white-portfolio">here</a>.
         </p>
       </article>
     </PageWrapper>
