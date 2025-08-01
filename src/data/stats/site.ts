@@ -10,7 +10,7 @@ const data: StatData[] = [
   {
     label: 'Stars this repository has on github',
     key: 'stargazers_count',
-    link: 'https://github.com/bluebigthink/bbt-white-portfolio/stargazers',
+    link: 'https://github.com/bluebigthink/stargazers',
   },
   {
     label: 'Number of people watching this repository',

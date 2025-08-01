@@ -25,7 +25,7 @@ export default function StatsPage() {
           </div>
         </header>
         <Personal />
-        <Site />
+        {/* <Site /> */}
       </article>
     </PageWrapper>
   );
