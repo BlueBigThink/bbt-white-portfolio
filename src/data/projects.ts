@@ -64,14 +64,21 @@ const data: Project[] = [
   },
   {
     title: 'doubleit casino',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    images: ['/images/projects/catdetector.jpg','/images/projects/catdetector.jpg'],
+    subtitle: 'Doubleit.Casino',
+    link: 'http://doubleit.casino',
+    images: ['/images/projects/casino/0.JPG',
+            '/images/projects/casino/1.JPG',
+            '/images/projects/casino/2.JPG',
+            '/images/projects/casino/3.JPG',
+            '/images/projects/casino/4.JPG',
+            '/images/projects/casino/5.JPG',
+            '/images/projects/casino/6.JPG',
+            '/images/projects/casino/7.JPG',
+            '/images/projects/casino/8.JPG',
+            '/images/projects/casino/9.JPG'],
     date: '2024-10-01',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. ' +
-      'Over 60,000 cats were classified before server bills made the project too expensive ' +
-      'to continue hosting.',
+      'Doubleit.Casino is an exciting project that continues to evolve and improve every day. With its core casino games already running flawlessly, it’s setting the stage for something truly extraordinary. The platform holds immense potential to captivate players and become a leading destination for online gaming in the near future!(Under development)',
   },
 ];
 
