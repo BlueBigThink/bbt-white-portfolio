@@ -46,22 +46,28 @@ const data: Project[] = [
       'modelvi.com is an all-in-one platform that makes automating your content across multiple channels simple and stress-free. It helps you reach a wider audience, keep your fans engaged, and save countless hours on repetitive tasks. With streamlined tools designed specifically for models and agencies, managing your workflow has never been easier. By working smarter, you can consistently grow your presence and earn $10–15K every month.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    images: ['/images/projects/modelvi/1.JPG'],
-    date: '2015-06-28',
+    title: 'creatorhub',
+    subtitle: 'Social of fans',
+    link: 'http://creatorhub.vip',
+    images: ['/images/projects/ch/1.JPG',
+            '/images/projects/ch/2.JPG',
+            '/images/projects/ch/3.JPG',
+            '/images/projects/ch/4.JPG',
+            '/images/projects/ch/5.JPG',
+            '/images/projects/ch/6.JPG',
+            '/images/projects/ch/7.JPG',
+            '/images/projects/ch/8.JPG',
+            '/images/projects/ch/9.JPG'],
+    date: '2024-11-20',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras ' +
-      'and gps transponder. Resulting photos were published in a coffee table book. ' +
-      'You can email me for a copy.',
+      'CreatorHub.vip isn’t limited to just one platform. You can link and promote profiles from OnlyFans, Fansly, f2f, FanCentro, 4based, and Maloum—all in one place. This makes it the ultimate solution for creators managing multiple accounts.',
   },
   {
-    title: 'Cat Detector',
+    title: 'doubleit casino',
     subtitle: 'A convolutional neural network to classify cats! (and dogs)',
     image: '/images/projects/catdetector.jpg',
     images: ['/images/projects/catdetector.jpg','/images/projects/catdetector.jpg'],
-    date: '2015-05-15',
+    date: '2024-10-01',
     desc:
       'Trained a convolutional neural network to classify between ~ 80 cats breeds. ' +
       'Over 60,000 cats were classified before server bills made the project too expensive ' +
