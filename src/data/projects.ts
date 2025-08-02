@@ -80,6 +80,24 @@ const data: Project[] = [
     desc:
       'Doubleit.Casino is an exciting project that continues to evolve and improve every day. With its core casino games already running flawlessly, it’s setting the stage for something truly extraordinary. The platform holds immense potential to captivate players and become a leading destination for online gaming in the near future!(Under development)',
   },
+  {
+    title: 'wwmalls',
+    subtitle: 'WWMALLS.COM',
+    link: 'https://wwmalls.com/',
+    images: ['/images/projects/wwmalls/0.JPG',
+            '/images/projects/wwmalls/1.JPG',
+            '/images/projects/wwmalls/2.JPG',
+            '/images/projects/wwmalls/3.JPG',
+            '/images/projects/wwmalls/4.JPG',
+            '/images/projects/wwmalls/5.JPG',
+            '/images/projects/wwmalls/6.JPG',
+            '/images/projects/wwmalls/7.JPG',
+            '/images/projects/wwmalls/8.JPG',
+            '/images/projects/wwmalls/9.JPG'],
+    date: '2024-05-01',
+    desc:
+      'WWMalls.com is your local e-commerce hub in Nanaimo, where you can find and buy anything you need with ease. From everyday essentials to unique products, WWMalls brings the marketplace to your fingertips.Enjoy fast and reliable delivery right to your doorstep in Nanaimo. But that’s not all – WWMalls also offers real estate services, making it more than just a shopping platform. Shop smarter, live better – only at wwmalls.com.',
+  },
 ];
 
 export default data;
