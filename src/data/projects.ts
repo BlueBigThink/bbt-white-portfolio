@@ -110,7 +110,7 @@ const data: Project[] = [
             '/images/projects/proxy/6.JPG'],
     date: '2025-06-01',
     desc:
-      'ProxyGigant.com is your trusted source for high-quality proxy services. Designed for speed and security, our proxies ensure smooth and safe browsing for all your online needs. Exciting news – mobile proxies will be available soon, giving you even more flexibility and performance. Choose ProxyGigant.com for a seamless proxy experience.',
+      'ProxyGigant.com is your trusted source for high-quality proxy services. Designed for speed and security, our proxies ensure smooth and safe browsing for all your online needs. Exciting news – mobile proxies will be available soon, giving you even more flexibility and performance. Choose ProxyGigant.com for a seamless proxy experience.(Under Development)',
   },
 ];
 
