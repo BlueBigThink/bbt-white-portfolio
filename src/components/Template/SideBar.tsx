@@ -33,7 +33,6 @@ const SideBar: React.FC = () => {
           <a href="https://moonhub.ai">moonhub.ai</a>,{' '}
           <a href="https://definationlabs.io">Definationlabs.io</a>,{' '}and{' '}
           <a href="https://gigantonline.com">gigantonline.com</a>{' '}<br/>
-          As a web developer I am specializing in Python, Node.js, Java, Elixir, Go, and Web3 technologies. With extensive experience in building and deploying robust applications, I thrive on tackling challenging projects that push the boundaries of innovation. Over the years, I’ve contributed to a diverse range of solutions, from scalable web platforms to cutting-edge smart contract and blockchain-based applications.
         </p>
         <ul className="actions">
           <li>
