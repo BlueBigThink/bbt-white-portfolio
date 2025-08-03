@@ -98,6 +98,20 @@ const data: Project[] = [
     desc:
       'WWMalls.com is your local e-commerce hub in Nanaimo, where you can find and buy anything you need with ease. From everyday essentials to unique products, WWMalls brings the marketplace to your fingertips.Enjoy fast and reliable delivery right to your doorstep in Nanaimo. But that’s not all – WWMalls also offers real estate services, making it more than just a shopping platform. Shop smarter, live better – only at wwmalls.com.',
   },
+  {
+    title: 'proxygigant',
+    subtitle: 'proxygigant.com',
+    link: 'https://proxygigant.com/',
+    images: ['/images/projects/proxy/1.JPG',
+            '/images/projects/proxy/2.JPG',
+            '/images/projects/proxy/3.JPG',
+            '/images/projects/proxy/4.JPG',
+            '/images/projects/proxy/5.JPG',
+            '/images/projects/proxy/6.JPG'],
+    date: '2025-06-01',
+    desc:
+      'ProxyGigant.com is your trusted source for high-quality proxy services. Designed for speed and security, our proxies ensure smooth and safe browsing for all your online needs. Exciting news – mobile proxies will be available soon, giving you even more flexibility and performance. Choose ProxyGigant.com for a seamless proxy experience.',
+  },
 ];
 
 export default data;
