@@ -6,7 +6,7 @@ import Link from 'next/link';
 import PageWrapper from './components/PageWrapper';
 
 export const metadata: Metadata = {
-  description: 'Brent C is a data scientist, machine learning engineer, and full-stack engineer.',
+  description: 'Brent C is a Blockchain Developer, Senior Web Developer, AI Engineer',
 };
 
 export default function HomePage() {

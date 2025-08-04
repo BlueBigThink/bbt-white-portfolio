@@ -27,13 +27,14 @@ export const metadata: Metadata = {
     template: '%s | Brent C',
   },
   description:
-    'Brent C\' personal website. Data scientist, machine learning engineer, and full-stack developer.',
+    'Brent C\' personal website. Blockchain Developer, Senior Web Developer, AI Engineer',
   keywords: [
     'Brent C',
-    'data scientist',
+    'Blockchain Developer',
     'machine learning',
     'full-stack developer',
     'engineer',
+    'AI Engineer',
     'portfolio',
   ],
   authors: [{ name: 'Brent C' }],
