@@ -45,11 +45,11 @@ export const metadata: Metadata = {
     url: 'https://brentbt.site',
     siteName: 'Brent C',
     title: 'Brent C',
-    description: 'Data scientist, machine learning engineer, and full-stack developer.',
+    description: 'Blockchain Developer, Senior Web Developer, AI Engineer',
     images: [
       {
         url: '/images/me.jpg',
-        width: 1200,
+        width: 630,
         height: 630,
         alt: 'Brent C',
       },
