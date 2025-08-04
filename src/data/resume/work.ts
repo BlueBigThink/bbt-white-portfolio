@@ -17,14 +17,12 @@ const work: Position[] = [
     position: 'Head of Development / Co-founder',
     url: 'https://promptfoo.dev',
     startDate: '2023-02-01',
-    summary:
-      '',
     highlights: [
       'Developed Blogchain.us (Next + Express + Mongodb + Redis), Blogchain app (ReactNative), Doubleit.casino (React + Express + Mongodb)',
       'Collaborated with advisors and key stakeholders to identify opportunities for cost optimization, leading to a 20% reduction in platform development expenses',
       'Successfully implemented a secure and efficient payment system based on Stripe/Nowpayments.io, enabling seamless transactions and boosting customer satisfaction',
       'Developed and maintained scalable RESTful APIs to support various functionalities of the platform',
-      'Conducted thorough code reviews and provided constructive feedback to team members, fostering a culture of continuous improvement and code quality'
+      'Conducted thorough code reviews and provided constructive feedback to team members, fostering a culture of continuous improvement and code quality',
     ],
   },
   {
@@ -33,7 +31,6 @@ const work: Position[] = [
     url: 'https://gigantonline.com',
     startDate: '2024-08-01',
     endDate: '2025-07-01',
-    summary: ``,
     highlights: [
       'Developed Modelvi.com (Next + Mongodb + Playwright), Creatorhub.vip (Next + Mongodb), Proxygigant.com (Next + Mongodb)',
       'Developed an automated posting engine using Playwright, enabling seamless content distribution across five social media platforms, including Fansly, OnlyFans, and F2F',
@@ -48,7 +45,6 @@ const work: Position[] = [
     url: 'http://Definationlabs.io',
     startDate: '2023-05-01',
     endDate: '2024-08-01',
-    summary: ``,
     highlights: [
       'Developed a Telegram Trading Bot / Telegram Casino Bot that seamlessly interacts with the EVM / Solana, providing users with a user-friendly platform to play casino games and manage their funds',
       'Utilized web3py, PostgreSQL and Python (Django) frameworks to build the DApps that integrate with the EVM, enhancing the overall functionality and user experience of the applications',
@@ -62,7 +58,6 @@ const work: Position[] = [
     url: 'https://Moonhub.ai',
     startDate: '2022-10-01',
     endDate: '2023-03-01',
-    summary: ``,
     highlights: [
       'Developed and launched Landing and Portal websites, utilizing React.js with TypeScript, Vue.js, and FastAPI, resulting in enhanced user engagement and improved user experience',
       'Implemented a frontend search project, enabling users to search and retrieve relevant information more efficiently',
@@ -78,7 +73,6 @@ const work: Position[] = [
     url: 'https://GreedP2E.io',
     startDate: '2020-06-01',
     endDate: '2021-04-01',
-    summary: ``,
     highlights: [
       'Developed an engaging landing page and a P2E Metaverse shooting game, integrating blockchain mechanics and immersive user experiences',
       'Proficient in React.js (TS) for building dynamic, scalable front-end applications and Unity3D (C#) / Solidity for creating interactive gaming environments',
@@ -100,9 +94,9 @@ const work: Position[] = [
       'Collaborated with the team members on production issues',
       'Took initiative and developed approaches and solutions to software problems',
       'Tested code using various techniques, including manual and automated unit tests',
-      'Maintained code integrity, branches, and migration within source control'
+      'Maintained code integrity, branches, and migration within source control',
     ],
-  }
+  },
 ];
 
 export default work;

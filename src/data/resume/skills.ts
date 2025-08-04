@@ -103,7 +103,7 @@ const skills: Skill[] = [
   {
     title: 'Numpy',
     competency: 4,
-    category: ['Data Science',  'Python', 'ML Engineering'],
+    category: ['Data Science', 'Python', 'ML Engineering'],
   },
   {
     title: 'Tensorflow + Keras',
@@ -143,12 +143,12 @@ const skills: Skill[] = [
   {
     title: 'Pandas',
     competency: 4,
-    category: [ 'ML Engineering', 'Python'],
+    category: ['ML Engineering', 'Python'],
   },
   {
     title: 'Matplotlib',
     competency: 3,
-    category: [ 'ML Engineering', 'Python'],
+    category: ['ML Engineering', 'Python'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 

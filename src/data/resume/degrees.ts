@@ -11,7 +11,7 @@ const degrees: Degree[] = [
     degree: 'B.S. Computer Science',
     link: 'https://www.smu.edu.sg/',
     year: 2014,
-  }
+  },
 ];
 
 export default degrees;

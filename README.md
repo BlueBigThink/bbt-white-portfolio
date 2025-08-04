@@ -1,6 +1,6 @@
 # BBT Portfolio
 
-Welcome to my [BBT Portfolio](https://bbt.dev)! This is a Next.js-based Jamstack application. It offers a simple interface, easy modifications, and free automatic deployments via [GitHub Pages](https://pages.github.com/).
+Welcome to my [BBT Portfolio](https://brentbt.site)! This is a Next.js-based Jamstack application. It offers a simple interface, easy modifications, and free automatic deployments via [GitHub Pages](https://pages.github.com/).
 
 ## 🚀 Features
 

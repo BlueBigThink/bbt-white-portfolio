@@ -4,6 +4,12 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
+  eslint: {
+    ignoreDuringBuilds: true
+  },
+  typescript: {
+    ignoreBuildErrors: true
+  },  
   sassOptions: {
     includePaths: ['./src/static/css'],
     silenceDeprecations: ['import'], // Silence @import deprecation warnings

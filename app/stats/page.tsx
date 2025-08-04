@@ -4,13 +4,13 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 import Personal from '@/components/Stats/Personal';
-import Site from '@/components/Stats/Site';
+// import Site from '@/components/Stats/Site';
 
 import PageWrapper from '../components/PageWrapper';
 
 export const metadata: Metadata = {
   title: 'Stats',
-  description: "Some statistics about Brent C and bbt.dev",
+  description: "Some statistics about Brent C and brentbt.site",
 };
 
 export default function StatsPage() {

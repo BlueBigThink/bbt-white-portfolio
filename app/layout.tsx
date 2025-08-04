@@ -23,35 +23,35 @@ const raleway = Raleway({
 
 export const metadata: Metadata = {
   title: {
-    default: "Brent C",
-    template: "%s | Brent C",
+    default: 'Brent C',
+    template: '%s | Brent C',
   },
   description:
-    "Brent C's personal website. Data scientist, machine learning engineer, and full-stack developer.",
+    'Brent C\' personal website. Data scientist, machine learning engineer, and full-stack developer.',
   keywords: [
-    "Brent C",
+    'Brent C',
     'data scientist',
     'machine learning',
     'full-stack developer',
     'engineer',
     'portfolio',
   ],
-  authors: [{ name: "Brent C" }],
-  creator: "Brent C",
-  metadataBase: new URL('https://bbt.dev'),
+  authors: [{ name: 'Brent C' }],
+  creator: 'Brent C',
+  metadataBase: new URL('https://brentbt.site'),
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://bbt.dev',
-    siteName: "Brent C",
-    title: "Brent C",
+    url: 'https://brentbt.site',
+    siteName: 'Brent C',
+    title: 'Brent C',
     description: 'Data scientist, machine learning engineer, and full-stack developer.',
     images: [
       {
         url: '/images/me.jpg',
         width: 1200,
         height: 630,
-        alt: "Brent C",
+        alt: 'Brent C',
       },
     ],
   },
